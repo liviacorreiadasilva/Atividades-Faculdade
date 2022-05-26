@@ -2,8 +2,8 @@
 
 -MATÉRIAS:
 
-Sistemas Distribuídos:
+- Sistemas Distribuídos:
 -linguagens: Java e php
 
-Aplicações em Inteligência Artificial:
-- Linguagem: Python
+- Aplicações em Inteligência Artificial:
+Linguagem: Python
